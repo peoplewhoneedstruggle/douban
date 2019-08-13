@@ -5,4 +5,5 @@
 
 用法：
 #id为用户唯一id
+
 bash douban.sh id
